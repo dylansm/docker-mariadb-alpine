@@ -1,1 +1,3 @@
-# docker mariasb using alpine
+# docker mariadb alpine
+
+What is says on the tin.
